@@ -1,0 +1,66 @@
+.facade{
+  font-family: 'FacadeGX';/*on réutilise le nom choisi au sein du fichier font_liste.css*/
+}
+
+.ouvrieres{
+  font-family: 'OuvrièresGX';
+}
+
+.fungal{
+  font-family: 'FungalGX';
+}
+
+.movement{
+  font-family: 'MovementV';
+}
+  
+.recursive{
+  font-family: 'recursive';
+}
+
+.bricolage{
+  font-family: 'BricolageGrotesque';
+}
+
+.handjet{
+  font-family: 'handjet';
+}
+
+.sixtyhour{
+  font-family: 'sixtyhour';
+}
+
+.tiny{
+  font-family: 'tiny';
+}
+ 
+
+.mixal{
+  font-family: 'mixal';
+}
+  
+ h2{
+  font-size: 200px;
+  color: blue;
+  font-variation-settings:"FRMT" 900,"wght" 500;
+  transform: rotate(-30deg);
+
+ }
+  
+  h3{
+  position: relative;
+  font-size: 200px;
+  color: rgb(38, 119, 42);
+  font-variation-settings:"SCAN" 70, "BLED" 100;
+  transform: rotate(3deg);
+  z-index: -1;
+  }
+  
+  #premier{
+  opacity: 0.5;
+  
+
+
+  }
+
+  
